@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dima2001.github.io/static/css/main.6004ebc4.css",
-    "main.js": "/dima2001.github.io/static/js/main.450bfa78.js",
+    "main.css": "/dima2001.github.io/static/css/main.ad1b11e3.css",
+    "main.js": "/dima2001.github.io/static/js/main.57fb86ef.js",
     "static/media/BigKing.png": "/dima2001.github.io/static/media/BigKing.92c4bf4e244a4ccc71ed.png",
     "static/media/GrandCheeseFresh.png": "/dima2001.github.io/static/media/GrandCheeseFresh.e9c188647f2bfb74f157.png",
     "static/media/AngusXL.png": "/dima2001.github.io/static/media/AngusXL.d3b18b66af59df35d8cd.png",
@@ -50,11 +50,11 @@
     "static/media/slick.ttf": "/dima2001.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/dima2001.github.io/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/dima2001.github.io/index.html",
-    "main.6004ebc4.css.map": "/dima2001.github.io/static/css/main.6004ebc4.css.map",
-    "main.450bfa78.js.map": "/dima2001.github.io/static/js/main.450bfa78.js.map"
+    "main.ad1b11e3.css.map": "/dima2001.github.io/static/css/main.ad1b11e3.css.map",
+    "main.57fb86ef.js.map": "/dima2001.github.io/static/js/main.57fb86ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.6004ebc4.css",
-    "static/js/main.450bfa78.js"
+    "static/css/main.ad1b11e3.css",
+    "static/js/main.57fb86ef.js"
   ]
 }
